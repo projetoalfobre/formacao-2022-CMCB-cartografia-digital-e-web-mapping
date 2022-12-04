@@ -1,0 +1,25 @@
+SINOPSE DE CONTEÚDOS
+1. Introdução à criação de mapas digitais
+1.1 Fundamentos sobre informação geográfica e representação cartográfica
+1.2 Utilidade e áreas de aplicação
+1.3 Open Source, Open Data e Open Access
+1.4 Equipamentos e Software
+
+2. uMap
+2.1 Interface, navegação e configurações
+2.2 Operações básicas de edição
+2.3 Propriedades do mapa, camadas e elementos
+2.4 Gestão de camadas e tabela de dados
+2.5 Formatação e estilos
+2.6 Importação e exportação de dados
+2.7 Edição colaborativa
+2.8 Partilha e publicação
+
+2. QGIS
+2.1 Ambiente gráfico e configurações
+2.2 Principais ferramentas e funcionalidades
+2.3 Dados vetoriais
+2.4 Dados raster
+2.5 Criação de mapas
+2.6 Análise espacial
+2.7 Plugins
