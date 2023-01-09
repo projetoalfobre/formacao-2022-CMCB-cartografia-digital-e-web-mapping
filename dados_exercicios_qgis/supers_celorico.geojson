@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "supers_celorico",
+"features": [
+{ "type": "Feature", "properties": { "name": "super3", "impacto": 1 }, "geometry": { "type": "Point", "coordinates": [ -7.38719, 40.644039 ] } },
+{ "type": "Feature", "properties": { "name": "super2", "impacto": 5 }, "geometry": { "type": "Point", "coordinates": [ -7.402596, 40.626184 ] } },
+{ "type": "Feature", "properties": { "name": "super1", "impacto": 10 }, "geometry": { "type": "Point", "coordinates": [ -7.403573, 40.624474 ] } }
+]
+}
